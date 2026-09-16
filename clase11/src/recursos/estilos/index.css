@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Fira Sans";
+    src: url("./fonts/FiraSans-Black.ttf");
+}
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: lightslategrey;
+}
+a{
+    color: rgb(12, 12, 11);
+    text-decoration: none;
+}
+/*Selectores de clases
+.vinculos{
+    color: red;
+}*/
+.vinculos a{
+    color: blue;
+ }
+
+ .header-principal{
+    padding: 5px;
+    background-color: brown;
+ }
+ .contenido-principal{
+    background-color: chartreuse;
+ }
+ .footer-principal{
+    background-color: brown;
+ }
